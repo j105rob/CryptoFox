@@ -1,0 +1,12 @@
+#cryptofox-toolbar-button {
+	list-style-image: url("chrome://cryptofox/skin/cryptofox.png");
+}
+
+#cryptofox-status-bar-icon {
+	width: 83px;
+	margin: 0 5px;
+}
+
+.cryptofox-selected {
+	outline: 2px solid red !important;
+}

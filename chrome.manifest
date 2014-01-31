@@ -1,0 +1,8 @@
+content     cryptofox    chrome/content/
+content     cryptofox    chrome/content/ contentaccessible=yes
+overlay chrome://browser/content/browser.xul chrome://cryptofox/content/browser.xul
+
+locale	cryptofox	en-US	locale/en-US/
+
+skin	cryptofox	classic/1.0	skin/
+style	chrome://global/content/customizeToolbar.xul	chrome://cryptofox/skin/skin.css
